@@ -40,18 +40,7 @@
                                 <li class="nav-item me-lg-3">
                                     <a class="nav-link position-relative" href="{{ route('about') }}">About Us</a>
                                 </li>
-                                <!-- <li class="nav-item dropdown me-lg-3">
-                                    <a class="nav-link dropdown-toggle position-relative" href="{{ route('product') }}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Product
-                                    </a>
-                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                        <li><a class="dropdown-item" href="{{ route('men') }}">Men</a></li>
-                                        <li><a class="dropdown-item" href="{{ route('women') }}">Women</a></li>
-                                    </ul>
-                                </li> -->
-                                <li class="nav-item me-lg-3">
-                                    <a class="nav-link position-relative" href="{{ route('product') }}">Product</a>
-                                </li>
+                             
                                 <li class="nav-item me-lg-3">
                                     <a class="nav-link position-relative" href="{{ route('blog') }}">Blog</a>
                                 </li>
